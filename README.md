@@ -1,4 +1,4 @@
-wait, text?
+wait, md? thhis was supposed to be text-
 
 # zash
 
